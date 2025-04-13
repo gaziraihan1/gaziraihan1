@@ -1,4 +1,4 @@
-![Raihan Gazi](IMG-202550331-WA0002.jpg)
+![Raihan Gazi](IMG-20250331-WA0002.jpg)
 
 <h1 align="center">Hi 👋, I'm Mohammad Raihan Gazi</h1>
 <h3 align="center">A passionate Frontend Developer from Dhaka, Bangladesh</h3>
