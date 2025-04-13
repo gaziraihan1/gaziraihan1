@@ -28,13 +28,7 @@
 
 ### 📁 Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 🧮 Calculator | A basic calculator using JavaScript | [View](#) |
-| ✅ To-Do List | Task management app | [View](#) |
-| 🛒 E-commerce Site | Shopping site with cart functionality | [View](#) |
-| ✂️ Rock Paper Scissors | Game with UI | [View](#) |
-| 🧑‍💼 Portfolio | My portfolio website | [View](#) |
+**Coming soon**
 
 ---
 
