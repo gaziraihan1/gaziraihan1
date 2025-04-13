@@ -1,4 +1,4 @@
-![Raihan Gazi](IMG-20250331-WA0002.jpg)
+![Raihan Gazi](download.png)
 
 ---
 
