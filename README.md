@@ -1,4 +1,4 @@
-![Raihan Gazi](download.png)
+![Raihan Gazi](github-readme.png)
 
 ---
 
