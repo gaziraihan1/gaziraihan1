@@ -9,9 +9,6 @@
 
 ### 🧑‍💻 About Me
 
----
-
-### 🧑‍💻 About Me
 
 ```js
 const raihan = {
@@ -28,7 +25,7 @@ const raihan = {
     email: "gazyraihan3@gmail.com"
   }
 };
-
+```
 
 ---
 
