@@ -9,12 +9,26 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **React.js projects**
-- 🌱 I’m currently learning **Advanced JavaScript and React.js**
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Tailwind CSS**
-- 📫 How to reach me: [Facebook](https://www.facebook.com/mohammad.raihan.gazi)
-- 🧠 Fun Fact: I love creating web games like **Rock Paper Scissors** 🤘
+---
+
+### 🧑‍💻 About Me
+
+```js
+const raihan = {
+  name: "Mohammad Raihan Gazi",
+  location: "Dhaka, Bangladesh",
+  role: "Frontend Developer",
+  currentlyWorkingOn: ["React.js projects"],
+  learning: ["Advanced JavaScript", "React.js"],
+  lookingToCollaborateOn: ["Open Source Projects"],
+  techStack: ["JavaScript", "React", "Tailwind CSS"],
+  funFact: "I love creating web games like Rock Paper Scissors 🤘",
+  contact: {
+    facebook: "https://www.facebook.com/mohammad.raihan.gazi",
+    email: "gazyraihan3@gmail.com"
+  }
+};
+
 
 ---
 
