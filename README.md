@@ -68,28 +68,11 @@ A **peer-to-peer platform** where users can **offer and swap skills** securely.
 - ✅ Dynamic Skill Offers – Users can create, edit, and manage skill offers  
 - ✅ Swap Requests – Request/accept/decline skills with **Active & History management**  
 - ✅ Admin Analytics – Admin dashboard with user, swap, and offer insights  
-- ✅ Responsive UI – Built with Next.js, TailwindCSS for modern design  
+- ✅ Responsive UI – Built with Next.js, TailwindCSS for modern design
+  
+<h2>2. Fitness Care</h2>
 
-<h2>2. Blog Platform</h2>
-
-### 🌐 [Blog Platform](https://github.com/yourusername/blog-platform)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-A modern blogging platform with authentication, dynamic posts, and comment system.  
-- ✅ User Authentication – Secure login & signup system  
-- ✅ Dynamic Blog Posts – Fetch blogs from backend/database with title, snippet, author, and date  
-- ✅ Interactive Comment Section – Readers can add comments under each post  
-- ✅ CRUD Operations – Add, edit, and delete blogs with authorization  
-- ✅ Responsive & User-Friendly Layout – Clean UI with mobile-first design  
-- ✅ SEO Optimized – Next.js server-side rendering for better performance  
-
-<h2>3. Fitness Care</h2>
-
-### 🏋️ [Gym Management System](https://github.com/yourusername/gym-management)  
+### 🏋️ [Gym Management System](https://github.com/gaziraihan1/fitness-care-client)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -105,6 +88,22 @@ A full-stack app for trainers, admins, and members with booking and role-based d
 - ✅ Reviews & Feedback – Members can review trainers/classes  
 - ✅ Responsive UI – TailwindCSS + React for smooth experience  
 
+<h2>3. Blog Platform</h2>
+
+### 🌐 [Blog Platform](https://github.com/gaziraihan1/Blog-page-client)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+A modern blogging platform with authentication, dynamic posts, and comment system.  
+- ✅ User Authentication – Secure login & signup system  
+- ✅ Dynamic Blog Posts – Fetch blogs from backend/database with title, snippet, author, and date  
+- ✅ Interactive Comment Section – Readers can add comments under each post  
+- ✅ CRUD Operations – Add, edit, and delete blogs with authorization  
+- ✅ Responsive & User-Friendly Layout – Clean UI with mobile-first design  
+- ✅ SEO Optimized – Next.js server-side rendering for better performance  
 
 ---
 
