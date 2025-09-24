@@ -55,7 +55,6 @@ const raihan = {
 ### 📁 Projects
 
 <h2>1. Skill Swap</h2>
-![Skill Swap](skillswap.png)
 
 ### 🔄 [SkillSwap – P2P Skill Sharing Platform](https://github.com/gaziraihan1/skill-swap-client)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -69,6 +68,46 @@ A **peer-to-peer platform** where users can **offer and swap skills** securely.
 ✅ Dynamic skill offers & booking system  
 ✅ Admin analytics dashboard  
 ✅ Swap requests with Active & History management  
+
+---
+
+<h2>2. Blog Platform</h2>
+
+### 🌐 [Blog Platform](https://github.com/yourusername/blog-platform)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+A modern blogging platform with authentication, dynamic posts, and comment system.  
+✅ User Authentication – Secure login & signup system
+✅ Dynamic Blog Posts – Fetch blogs from backend/database with title, snippet, author, and date
+✅ Interactive Comment Section – Readers can add comments under each post
+✅ CRUD Operations – Add, edit, and delete blogs with authorization
+✅ Responsive & User-Friendly Layout – Clean UI with mobile-first design
+✅ SEO Optimized – Next.js server-side rendering for better performance
+
+---
+
+<h2>3. Fitness Care</h2>
+
+### 🏋️ [Gym Management System](https://github.com/yourusername/gym-management)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+A full-stack app for trainers, admins, and members with booking and role-based dashboards.  
+✅ Role-Based Dashboards – Different panels for Admin, Trainers, and Members
+✅ Class & Trainer Management – Admins can add/edit classes and trainers
+✅ Membership Management – Members can register, upgrade, or cancel memberships
+✅ Trainer Applications – Members can apply to become trainers (pending → approved system)
+✅ Booking System – Users can book classes and trainers
+✅ Reviews & Feedback – Members can review trainers/classes
+✅ Responsive UI – TailwindCSS + React for smooth experience
+
 
 ---
 
