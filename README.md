@@ -69,8 +69,6 @@ A **peer-to-peer platform** where users can **offer and swap skills** securely.
 ✅ Admin analytics dashboard  
 ✅ Swap requests with Active & History management  
 
----
-
 <h2>2. Blog Platform</h2>
 
 ### 🌐 [Blog Platform](https://github.com/yourusername/blog-platform)  
@@ -87,8 +85,6 @@ A modern blogging platform with authentication, dynamic posts, and comment syste
 ✅ CRUD Operations – Add, edit, and delete blogs with authorization
 ✅ Responsive & User-Friendly Layout – Clean UI with mobile-first design
 ✅ SEO Optimized – Next.js server-side rendering for better performance
-
----
 
 <h2>3. Fitness Care</h2>
 
