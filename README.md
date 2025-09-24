@@ -54,10 +54,10 @@ const raihan = {
 
 ### 📁 Projects
 
-<h2>**Skill Swap**</h2>
+<h2>1. Skill Swap</h2>
 ![Skill Swap](skillswap.png)
 
-### 🔄 [SkillSwap – P2P Skill Sharing Platform](https://github.com/yourusername/skillswap)  
+### 🔄 [SkillSwap – P2P Skill Sharing Platform](https://github.com/gaziraihan1/skill-swap-client)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
