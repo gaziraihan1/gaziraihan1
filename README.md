@@ -54,7 +54,7 @@ const raihan = {
 
 ### 📁 Projects
 
-**Coming soon**
+![Skill Swap](skillswap.png)
 
 ---
 
