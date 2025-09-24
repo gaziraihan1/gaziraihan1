@@ -54,7 +54,21 @@ const raihan = {
 
 ### 📁 Projects
 
+**Skill Swap**
 ![Skill Swap](skillswap.png)
+
+### 🔄 [SkillSwap – P2P Skill Sharing Platform](https://github.com/yourusername/skillswap)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+A **peer-to-peer platform** where users can **offer and swap skills** securely.  
+✅ Role-based dashboards (Admin, Users, Skill Providers)  
+✅ Secure authentication & JWT authorization  
+✅ Dynamic skill offers & booking system  
+✅ Admin analytics dashboard  
+✅ Swap requests with Active & History management  
 
 ---
 
