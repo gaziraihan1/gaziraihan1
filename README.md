@@ -54,7 +54,7 @@ const raihan = {
 
 ### 📁 Projects
 
-**Skill Swap**
+<h2>**Skill Swap**</h2>
 ![Skill Swap](skillswap.png)
 
 ### 🔄 [SkillSwap – P2P Skill Sharing Platform](https://github.com/yourusername/skillswap)  
