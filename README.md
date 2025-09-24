@@ -63,11 +63,12 @@ const raihan = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 A **peer-to-peer platform** where users can **offer and swap skills** securely.  
-✅ Role-based dashboards (Admin, Users, Skill Providers)  
-✅ Secure authentication & JWT authorization  
-✅ Dynamic skill offers & booking system  
-✅ Admin analytics dashboard  
-✅ Swap requests with Active & History management  
+- ✅ Role-Based Access Control – Separate dashboards for **Admin, Users, and Skill Providers**  
+- ✅ Secure Authentication – Firebase + JWT for login, signup, and protected routes  
+- ✅ Dynamic Skill Offers – Users can create, edit, and manage skill offers  
+- ✅ Swap Requests – Request/accept/decline skills with **Active & History management**  
+- ✅ Admin Analytics – Admin dashboard with user, swap, and offer insights  
+- ✅ Responsive UI – Built with Next.js, TailwindCSS for modern design  
 
 <h2>2. Blog Platform</h2>
 
@@ -79,12 +80,12 @@ A **peer-to-peer platform** where users can **offer and swap skills** securely.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 A modern blogging platform with authentication, dynamic posts, and comment system.  
-✅ User Authentication – Secure login & signup system
-✅ Dynamic Blog Posts – Fetch blogs from backend/database with title, snippet, author, and date
-✅ Interactive Comment Section – Readers can add comments under each post
-✅ CRUD Operations – Add, edit, and delete blogs with authorization
-✅ Responsive & User-Friendly Layout – Clean UI with mobile-first design
-✅ SEO Optimized – Next.js server-side rendering for better performance
+- ✅ User Authentication – Secure login & signup system  
+- ✅ Dynamic Blog Posts – Fetch blogs from backend/database with title, snippet, author, and date  
+- ✅ Interactive Comment Section – Readers can add comments under each post  
+- ✅ CRUD Operations – Add, edit, and delete blogs with authorization  
+- ✅ Responsive & User-Friendly Layout – Clean UI with mobile-first design  
+- ✅ SEO Optimized – Next.js server-side rendering for better performance  
 
 <h2>3. Fitness Care</h2>
 
@@ -96,13 +97,13 @@ A modern blogging platform with authentication, dynamic posts, and comment syste
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 A full-stack app for trainers, admins, and members with booking and role-based dashboards.  
-✅ Role-Based Dashboards – Different panels for Admin, Trainers, and Members
-✅ Class & Trainer Management – Admins can add/edit classes and trainers
-✅ Membership Management – Members can register, upgrade, or cancel memberships
-✅ Trainer Applications – Members can apply to become trainers (pending → approved system)
-✅ Booking System – Users can book classes and trainers
-✅ Reviews & Feedback – Members can review trainers/classes
-✅ Responsive UI – TailwindCSS + React for smooth experience
+- ✅ Role-Based Dashboards – Different panels for **Admin, Trainers, and Members**  
+- ✅ Class & Trainer Management – Admins can add/edit classes and trainers  
+- ✅ Membership Management – Members can register, upgrade, or cancel memberships  
+- ✅ Trainer Applications – Members can apply to become trainers (pending → approved system)  
+- ✅ Booking System – Users can book classes and trainers  
+- ✅ Reviews & Feedback – Members can review trainers/classes  
+- ✅ Responsive UI – TailwindCSS + React for smooth experience  
 
 
 ---
