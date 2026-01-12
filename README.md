@@ -18,7 +18,7 @@ const raihan = {
   currentlyWorkingOn: ["React.js", "Next.js", "Typescript", "Node.js", "Express.js", "Mongodb"],
   learning: ["Advanced Tanstack", "Redux", "Zustand"],
   lookingToCollaborateOn: ["Open Source Projects"],
-  techStack: ["JavaScript", "React", "Next.js", "Typescript", "Express.js", "MongoDB", "Tailwind CSS"],
+  techStack: ["JavaScript", "React", "Next.js", "Typescript", "Express.js", "MongoDB", "Tailwind CSS", "PostgreSQL", "Prisma ORM"],
   funFact: "I love creating web games like Rock Paper Scissors 🤘",
   contact: {
     facebook: "https://www.facebook.com/mohammad.raihan.gazi",
