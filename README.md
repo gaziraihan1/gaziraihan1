@@ -77,7 +77,7 @@ const raihan = {
 #### 1. 🎯 Focura – Productivity & Focus Management App
 > *A modern productivity platform designed to help users stay focused, manage tasks, and track workflow efficiently.*
 
-🔗 [Client Repo](https://github.com/gaziraihan1/focura-client) | [Live Demo](#) *(https://gaziraihan.vercel.app)*
+🔗 [Client Repo](https://github.com/gaziraihan1/focura-client) | [Live Demo](https://focura-client.vercel.app)
 
 ✅ **Advanced Task Management** – Create, update, delete, and organize tasks efficiently  
 ✅ **Workspace & Project Structure** – Structured workflow with projects and task grouping  
@@ -94,7 +94,7 @@ const raihan = {
 #### 2. 🔄 SkillSwap – P2P Skill Sharing Platform
 > *A peer-to-peer platform where users can offer and swap skills securely.*
 
-🔗 [Repo](#) *(add your repo link)* | [Live Demo](#) *(add your live link)*
+🔗 [Repo](https://github.com/gaziraihan1/skill-swap-client) | [Live Demo](#) 
 
 ✅ **Role-Based Access Control** – Admin, Users, Skill Providers  ✅ **Secure Authentication** – Firebase + JWT implementation  
 ✅ **Dynamic Skill Offers** – Create, edit, and manage skill listings  
@@ -109,7 +109,7 @@ const raihan = {
 #### 3. 🏋️ Fitness Care – Gym Management System
 > *A full-stack gym management system for admins, trainers, and members.*
 
-🔗 [Repo](#) *(add your repo link)* | [Live Demo](#) *(add your live link)*
+🔗 [Repo](https://github.com/gaziraihan1/fitness-care-client) | [Live Demo](#) *(add your live link)*
 
 ✅ **Role-Based Dashboards** – Custom interfaces for Admin, Trainers & Members  
 ✅ **Trainer & Class Management** – Schedule, assign, and track sessions  
