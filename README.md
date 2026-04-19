@@ -3,22 +3,37 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Mohammad Raihan Gazi</h1>
-<h3 align="center">A passionate Frontend Developer from Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate Fullstack Developer from Dhaka, Bangladesh</h3>
+
+<p align="center">
+  <a href="https://github.com/gaziraihan1">
+    <img src="https://img.shields.io/badge/GitHub-@gaziraihan1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:gazyraihan3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gazyraihan3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.facebook.com/mohammad.raihan.gazi">
+    <img src="https://img.shields.io/badge/Facebook-Mohammad%20Raihan%20Gazi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
-
 
 ```js
 const raihan = {
   name: "Mohammad Raihan Gazi",
   location: "Dhaka, Bangladesh",
   role: "Fullstack Developer",
-  currentlyWorkingOn: ["React.js", "Next.js", "Typescript", "Node.js", "Express.js", "Mongodb"],
-  learning: ["Advanced Tanstack", "Redux", "Zustand"],
+  currentlyWorkingOn: ["React.js", "Next.js", "TypeScript", "Node.js", "Express.js", "MongoDB"],
+  learning: ["Advanced TanStack", "Redux", "Zustand"],
   lookingToCollaborateOn: ["Open Source Projects"],
-  techStack: ["JavaScript", "React", "Next.js", "Typescript", "Express.js", "MongoDB", "Tailwind CSS", "PostgreSQL", "Prisma ORM"],
+  techStack: [
+    "JavaScript", "React", "Next.js", "TypeScript", 
+    "Express.js", "MongoDB", "Tailwind CSS", 
+    "PostgreSQL", "Prisma ORM"
+  ],
   funFact: "I love creating web games like Rock Paper Scissors 🤘",
   contact: {
     facebook: "https://www.facebook.com/mohammad.raihan.gazi",
@@ -31,98 +46,113 @@ const raihan = {
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
 ### 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaziraihan1&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaziraihan1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 📁 Projects
+### 📁 Featured Projects
 
-<h2>1. Skill Swap</h2>
+#### 1. 🎯 Focura – Productivity & Focus Management App
+> *A modern productivity platform designed to help users stay focused, manage tasks, and track workflow efficiently.*
 
-### 🔄 [SkillSwap – P2P Skill Sharing Platform](https://github.com/gaziraihan1/skill-swap-client)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+🔗 [Client Repo](https://github.com/gaziraihan1/focura-client) | [Live Demo](#) *(https://gaziraihan.vercel.app)*
 
-A **peer-to-peer platform** where users can **offer and swap skills** securely.  
-- ✅ Role-Based Access Control – Separate dashboards for **Admin, Users, and Skill Providers**  
-- ✅ Secure Authentication – Firebase + JWT for login, signup, and protected routes  
-- ✅ Dynamic Skill Offers – Users can create, edit, and manage skill offers  
-- ✅ Swap Requests – Request/accept/decline skills with **Active & History management**  
-- ✅ Admin Analytics – Admin dashboard with user, swap, and offer insights  
-- ✅ Responsive UI – Built with Next.js, TailwindCSS for modern design
-  
-<h2>2. Fitness Care</h2>
+✅ **Advanced Task Management** – Create, update, delete, and organize tasks efficiently  
+✅ **Workspace & Project Structure** – Structured workflow with projects and task grouping  
+✅ **Real-time UI Experience** – Smooth UX with optimized state handling  
+✅ **Authentication & Security** – Secure user sessions and protected routes  
+✅ **Scalable Backend** – Prisma + PostgreSQL for structured data handling  
+✅ **Clean & Modern UI** – Built with TailwindCSS and fully responsive design  
+✅ **Performance Optimized** – Minimal re-renders and efficient data fetching  
 
-### 🏋️ [Gym Management System](https://github.com/gaziraihan1/fitness-care-client)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-A full-stack app for trainers, admins, and members with booking and role-based dashboards.  
-- ✅ Role-Based Dashboards – Different panels for **Admin, Trainers, and Members**  
-- ✅ Class & Trainer Management – Admins can add/edit classes and trainers  
-- ✅ Membership Management – Members can register, upgrade, or cancel memberships  
-- ✅ Trainer Applications – Members can apply to become trainers (pending → approved system)  
-- ✅ Booking System – Users can book classes and trainers  
-- ✅ Reviews & Feedback – Members can review trainers/classes  
-- ✅ Responsive UI – TailwindCSS + React for smooth experience  
-
-<h2>3. Blog Platform</h2>
-
-### 🌐 [Blog Platform](https://github.com/gaziraihan1/Blog-page-client)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-A modern blogging platform with authentication, dynamic posts, and comment system.  
-- ✅ User Authentication – Secure login & signup system  
-- ✅ Dynamic Blog Posts – Fetch blogs from backend/database with title, snippet, author, and date  
-- ✅ Interactive Comment Section – Readers can add comments under each post  
-- ✅ CRUD Operations – Add, edit, and delete blogs with authorization  
-- ✅ Responsive & User-Friendly Layout – Clean UI with mobile-first design  
-- ✅ SEO Optimized – Next.js server-side rendering for better performance  
+**Tech Stack:** `React` `Next.js` `TypeScript` `Prisma` `PostgreSQL` `TailwindCSS` `Zustand`
 
 ---
 
-### 📬 Contact Me
+#### 2. 🔄 SkillSwap – P2P Skill Sharing Platform
+> *A peer-to-peer platform where users can offer and swap skills securely.*
 
-- Facebook: [Mohammad Raihan Gazi](https://www.facebook.com/mohammad.raihan.gazi)
-- Email: `gazyraihan3@gmail.com`
-- Location: Dhaka, Bangladesh
+🔗 [Repo](#) *(add your repo link)* | [Live Demo](#) *(add your live link)*
+
+✅ **Role-Based Access Control** – Admin, Users, Skill Providers  ✅ **Secure Authentication** – Firebase + JWT implementation  
+✅ **Dynamic Skill Offers** – Create, edit, and manage skill listings  
+✅ **Swap Requests System** – Active & history tracking with notifications  
+✅ **Admin Analytics Dashboard** – Insights and moderation tools  
+✅ **Fully Responsive UI** – Mobile-first design approach  
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Firebase` `TailwindCSS` `JWT`
+
+---
+
+#### 3. 🏋️ Fitness Care – Gym Management System
+> *A full-stack gym management system for admins, trainers, and members.*
+
+🔗 [Repo](#) *(add your repo link)* | [Live Demo](#) *(add your live link)*
+
+✅ **Role-Based Dashboards** – Custom interfaces for Admin, Trainers & Members  
+✅ **Trainer & Class Management** – Schedule, assign, and track sessions  
+✅ **Membership System** – Subscription plans, renewals, and access control  
+✅ **Trainer Application Workflow** – Review and onboarding process  
+✅ **Booking System** – Class reservations and capacity management  
+✅ **Reviews & Feedback** – User ratings and testimonial system  
+✅ **Responsive Design** – Optimized for all device sizes  
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `TailwindCSS` `JWT`
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.facebook.com/mohammad.raihan.gazi">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:gazyraihan3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/gaziraihan1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-008080?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location">
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaziraihan1&show_icons=true&theme=radical" alt="Raihan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaziraihan1&show_icons=true&theme=radical&hide_border=true" alt="Raihan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaziraihan1&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
 ---
 
-⭐️ *Thanks for visiting! Feel free to check out my repositories and connect!*
+<p align="center">
+  <strong>⭐️ Thanks for visiting!</strong><br/>
+  Feel free to explore my repositories and let's build something amazing together! 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaziraihan1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
