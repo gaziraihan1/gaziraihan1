@@ -1,7 +1,3 @@
-![Raihan Gazi](github-readme.png)
-
----
-
 <h1 align="center">Hi 👋, I'm Mohammad Raihan Gazi</h1>
 <h3 align="center">A passionate Fullstack Developer from Dhaka, Bangladesh</h3>
 
@@ -155,4 +151,4 @@ const raihan = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaziraihan1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+</p
