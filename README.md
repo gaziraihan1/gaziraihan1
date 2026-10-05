@@ -22,7 +22,7 @@ const raihan = {
   name: "Mohammad Raihan Gazi",
   location: "Dhaka, Bangladesh",
   role: "Fullstack Developer",
-  currentlyWorkingOn: ["React.js", "Next.js", "TypeScript", "Node.js", "Express.js", "MongoDB"],
+  currentlyWorkingOn: ["React.js", "Next.js", "TypeScript", "Node.js", "Express.js", "Fastify", "PostgreSQL"],
   learning: ["Advanced TanStack", "Redux", "Zustand"],
   lookingToCollaborateOn: ["Open Source Projects"],
   techStack: [
