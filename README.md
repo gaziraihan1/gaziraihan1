@@ -87,35 +87,37 @@ const raihan = {
 
 ---
 
-#### 2. 🔄 SkillSwap – P2P Skill Sharing Platform
-> *A peer-to-peer platform where users can offer and swap skills securely.*
+#### 2. 🔐 Gablura Auth – Modular TypeScript Authentication Toolkit
+> *A production-ready, modular authentication toolkit for TypeScript applications. Comprehensive security features built for enterprise-grade applications.*
 
-🔗 [Repo](https://github.com/gaziraihan1/skill-swap-client) | [Live Demo](#) 
+🔗 [Repo](https://github.com/gablura/gablura-auth) | [Organization](https://github.com/gablura)
 
-✅ **Role-Based Access Control** – Admin, Users, Skill Providers  ✅ **Secure Authentication** – Firebase + JWT implementation  
-✅ **Dynamic Skill Offers** – Create, edit, and manage skill listings  
-✅ **Swap Requests System** – Active & history tracking with notifications  
-✅ **Admin Analytics Dashboard** – Insights and moderation tools  
-✅ **Fully Responsive UI** – Mobile-first design approach  
+✅ **JWT & Refresh Token Rotation** – Secure token management with automatic rotation  
+✅ **Two-Factor Authentication (2FA)** – Enhanced security with 2FA support  
+✅ **OAuth Integration** – Multiple OAuth provider support  
+✅ **Role-Based Access Control (RBAC)** – Flexible permission management  
+✅ **Email Verification** – Automated email verification workflows  
+✅ **Secure Session Management** – Production-grade session handling  
+✅ **Production Ready** – MIT Licensed, fully tested and documented  
 
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Firebase` `TailwindCSS` `JWT`
+**Tech Stack:** `TypeScript` `JWT` `OAuth` `Node.js`
 
 ---
 
-#### 3. 🏋️ Fitness Care – Gym Management System
-> *A full-stack gym management system for admins, trainers, and members.*
+#### 3. 🤖 Warden (ArcCoven) – AI Agent Governance & Spend Control Platform
+> *A comprehensive governance and visibility layer for autonomous AI agents that make payments. Enforces spend limits, requires human approval thresholds, and maintains complete audit trails.*
 
-🔗 [Repo](https://github.com/gaziraihan1/fitness-care-client) | [Live Demo](#) *(add your live link)*
+🔗 [Client Repo](https://github.com/gablura/ArcCoven-client) | [Server Repo](https://github.com/gablura/ArcCoven-server) | [Organization](https://github.com/gablura)
 
-✅ **Role-Based Dashboards** – Custom interfaces for Admin, Trainers & Members  
-✅ **Trainer & Class Management** – Schedule, assign, and track sessions  
-✅ **Membership System** – Subscription plans, renewals, and access control  
-✅ **Trainer Application Workflow** – Review and onboarding process  
-✅ **Booking System** – Class reservations and capacity management  
-✅ **Reviews & Feedback** – User ratings and testimonial system  
-✅ **Responsive Design** – Optimized for all device sizes  
+✅ **Autonomous Agent Oversight** – Monitor and control AI agents making real payments  
+✅ **Spend Limit Enforcement** – Set and enforce spending restrictions  
+✅ **Human Sign-Off System** – Require approval for high-value transactions  
+✅ **Complete Audit Trail** – Log every decision and transaction  
+✅ **Real-time Governance** – Immediate visibility into agent activities  
+✅ **Scalable Architecture** – Client-server separation for flexibility  
+✅ **Enterprise-Grade Security** – Built for production AI payment systems  
 
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `TailwindCSS` `JWT`
+**Tech Stack:** `TypeScript` `React` `Node.js` `Express.js`
 
 ---
 
@@ -142,6 +144,7 @@ const raihan = {
   <img src="https://github-readme-stats.vercel.app/api?username=gaziraihan1&show_icons=true&theme=radical&hide_border=true" alt="Raihan's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaziraihan1&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 ---
 
 <p align="center">
@@ -151,4 +154,4 @@ const raihan = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaziraihan1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p
+</p>
