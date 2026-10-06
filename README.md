@@ -83,7 +83,7 @@ const raihan = {
 ✅ **Clean & Modern UI** – Built with TailwindCSS and fully responsive design  
 ✅ **Performance Optimized** – Minimal re-renders and efficient data fetching  
 
-**Tech Stack:** `React` `Next.js` `TypeScript` `Prisma` `PostgreSQL` `TailwindCSS` `Zustand`
+**Tech Stack:** `React` `Next.js` `TypeScript` `Prisma` `PostgreSQL` `TailwindCSS`
 
 ---
 
@@ -117,7 +117,7 @@ const raihan = {
 ✅ **Scalable Architecture** – Client-server separation for flexibility  
 ✅ **Enterprise-Grade Security** – Built for production AI payment systems  
 
-**Tech Stack:** `TypeScript` `React` `Node.js` `Express.js`
+**Tech Stack:** `TypeScript` `Solidity` `React` `Node.js` `Fastify`
 
 ---
 
